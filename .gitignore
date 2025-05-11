@@ -1,3 +1,6 @@
+backend/TrafficBackend
+frontend/TrafficFrontend
+
 .git/
 .svn/
 .hg/
